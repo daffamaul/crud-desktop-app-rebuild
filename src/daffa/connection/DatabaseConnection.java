@@ -18,8 +18,8 @@ public class DatabaseConnection {
     private String host = "localhost";
     private String port = "3306";
     private String database = "netbeans_kampus";
-    private String username = "debian-sys-maint";
-    private String password = "dW3vBW9UEDoHBRXs";
+    private String username = "root";
+    private String password = "";
 
 
     public static DatabaseConnection getInstance() {
